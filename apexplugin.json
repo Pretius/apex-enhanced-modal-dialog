@@ -23,9 +23,9 @@
     "apex" : {
       "versions" : ["4.1.0", "4.2.6", "5.0.0"],
       "plugin" : {
-        "internalName" : "apex.enahnced.lov.item",
+        "internalName" : "apex.enahnced.modal.dialog",
         "type" : "dynamic action",
-        "demo" : "http://apex.pretius.com/apex/f?p=105:ENHANCED_MODAL_PAGE",
+        "demo" : "http://apex.pretius.com/apex/f?p=105:ENHANCED_MODAL_dialog",
         "previewImage" : "https://raw.githubusercontent.com/Pretius/apex-enhanced-modal-dialog/master/preview.jpg"
       }
     }
