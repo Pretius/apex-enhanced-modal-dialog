@@ -1,0 +1,33 @@
+{
+  "name" : "Pretius Enhanced LOV item - tabular form",
+  "version" : "1.0",
+  "description" : "The plugin is dynamic action plugin dedicated to use with Oracle APEX 5.x chained modal pages. Unlike to native modal page dialogs, the plugin allows to adjust every chained modal page appearance and behavior. Each time the modal page in modal dialog is loaded, the plugin adjust appearance (width, height, height in percents) and change behavior (resizable, draggable) of currently opened modal dialog.",
+  "keywords" : ["modal", "page", "dialog", "resize", "animate"],
+  "homepage" : "http://apex.pretius.com/apex/f?p=105:ENHANCED_MODAL_PAGE",
+  "bugs" : {
+    "url" : "http://apex.pretius.com",
+    "email" : "apex@pretius.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Bartosz Ostrowski",
+    "email" : "bostrowski@pretius.com",
+    "url" : "http://pretius.com/technologies/oracle-apex/"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : ""
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1"],
+    "apex" : {
+      "versions" : ["4.1", "4.2", "5.0"],
+      "plugin" : {
+        "internalName" : "apex.enahnced.lov.item",
+        "type" : "dynamic action",
+        "demo" : "http://apex.pretius.com/apex/f?p=105:ENHANCED_MODAL_PAGE",
+        "previewImage" : ""
+      }
+    }
+  }
+}
