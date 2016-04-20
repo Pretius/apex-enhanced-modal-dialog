@@ -16,7 +16,7 @@
   },
   "repository" : {
     "type" : "git",
-    "url" : ""
+    "url" : "https://github.com/Pretius/apex-enhanced-modal-dialog"
   },
   "oracle" : {
     "versions" : ["11.2.0.1"],
@@ -26,7 +26,7 @@
         "internalName" : "apex.enahnced.lov.item",
         "type" : "dynamic action",
         "demo" : "http://apex.pretius.com/apex/f?p=105:ENHANCED_MODAL_PAGE",
-        "previewImage" : ""
+        "previewImage" : "https://raw.githubusercontent.com/Pretius/apex-enhanced-modal-dialog/master/preview.jpg"
       }
     }
   }
