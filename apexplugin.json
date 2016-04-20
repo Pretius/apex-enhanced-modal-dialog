@@ -21,7 +21,7 @@
   "oracle" : {
     "versions" : ["11.2.0.1"],
     "apex" : {
-      "versions" : ["4.1", "4.2", "5.0"],
+      "versions" : ["4.1.0", "4.2.6", "5.0.0"],
       "plugin" : {
         "internalName" : "apex.enahnced.lov.item",
         "type" : "dynamic action",
