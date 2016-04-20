@@ -25,7 +25,7 @@
       "plugin" : {
         "internalName" : "apex.enahnced.modal.dialog",
         "type" : "dynamic action",
-        "demo" : "http://apex.pretius.com/apex/f?p=105:ENHANCED_MODAL_dialog",
+        "demo" : "http://apex.pretius.com/apex/f?p=105:ENHANCED_MODAL_PAGE",
         "previewImage" : "https://raw.githubusercontent.com/Pretius/apex-enhanced-modal-dialog/master/preview.jpg"
       }
     }
