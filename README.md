@@ -1,4 +1,4 @@
-#Pretius APEX Enhanced Modal dialog v1.0
+#Pretius APEX Enhanced Modal dialog
 ##### Oracle APEX dynamic action plugin v1.0
 The plugin is dynamic action plugin dedicated to use with Oracle APEX 5.x chained modal pages.
 
