@@ -1,5 +1,7 @@
 #Pretius APEX Enhanced Modal dialog v1.0
-The plugin is dynamic action plugin to validate APEX items according to defined APEX item validations on browser side - without submitting the form.
+The plugin is dynamic action plugin dedicated to use with Oracle APEX 5.x chained modal pages.
+
+Unlike to native modal page dialogs, the plugin allows to adjust every chained modal page appearance and behavior. Each time the modal page in modal dialog is loaded, the plugin adjust appearance (width, height, height in percents) and change behavior (resizable, draggable) of currently opened modal dialog.
 
 Live demo, instructions and more details about the plugin are available directly in [demo application](http://apex.pretius.com/apex/f?p=105:ENHANCED_MODAL_PAGE).
 
