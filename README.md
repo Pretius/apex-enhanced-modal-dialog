@@ -67,7 +67,7 @@ Save changes and test plugin in action with any created modal page.
 
 ## Changelog
 
-## 1.0
+### 1.0
 Initial release
 
 ## About Author
