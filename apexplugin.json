@@ -1,22 +1,25 @@
 {
-  "name" : "Pretius Enhanced Modal dialog",
+  "name" : "Pretius Enhanced Modal Dialog",
   "version" : "1.0",
   "description" : "The plugin is dynamic action plugin dedicated to use with Oracle APEX 5.x chained modal pages. Unlike to native modal page dialogs, the plugin allows to adjust every chained modal page appearance and behavior. Each time the modal page in modal dialog is loaded, the plugin adjust appearance (width, height, height in percents) and change behavior (resizable, draggable) of currently opened modal dialog.",
   "keywords" : ["modal", "page", "dialog", "resize", "animate"],
   "homepage" : "https://github.com/Pretius/apex-enhanced-modal-dialog",
   "bugs" : {
-    "url" : "http://apex.pretius.com",
-    "email" : "apex@pretius.com"
+    "url" : "https://github.com/Pretius/apex-enhanced-modal-dialog/issues",
+    "email" : "apex-plugins@pretius.com"
   },
   "license" : "MIT",
+  "commercial" : "No",
+  "commercially_supported":"No",  
   "author" : {
-    "name" : "Bartosz Ostrowski",
-    "email" : "bostrowski@pretius.com",
-    "url" : "http://pretius.com/technologies/oracle-apex/"
+    "name" : "Pretius",
+    "email" : "apex-plugins@pretius.com",
+    "url" : "http://www.pretius.com",
+    "twitter": "PretiusSoftware"
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/Pretius/apex-enhanced-modal-dialog"
+    "url" : "https://github.com/Pretius/apex-enhanced-modal-dialog.git"
   },
   "oracle" : {
     "versions" : ["11.2.0.1"],
